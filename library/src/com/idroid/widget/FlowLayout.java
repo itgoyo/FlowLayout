@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
 
-
 public class FlowLayout extends AdapterView<ListAdapter> implements View.OnClickListener {
     private ListAdapter mAdapter;
 
